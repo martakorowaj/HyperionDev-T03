@@ -1,0 +1,76 @@
+body {
+    background-color: #f1f1f1;
+    margin: 2vw;
+}
+
+main {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #000025;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
+    
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+a {
+    color: #4c29e2;
+    text-decoration: underline;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    padding: 0 5%;
+    justify-content: center;
+}
+
+.nav-list li {
+    padding: 2vw;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+
+.interests-list {
+    padding: 0;
+    margin: 0;
+}
+
+#interests li {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+}
+
+
+.contact-list {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding: 0 15%; 
+}
+
+#contact li {
+    padding: 2vw;
+}
+
+h2 .contact-heading {
+    text-align: center;
+}
+
+
+
+/*
+● Add or adjust the margin and padding around elements like headings and paragraphs to create space and prevent clutter.
+*/
+
+
